@@ -1,6 +1,7 @@
 # momentum
 
 //한국시간
+
 function renderCurrentTime() {
 let url = `https://worldtimeapi.org/api/timezone/Asia/Seoul`;
 fetch(url)
@@ -12,6 +13,7 @@ fetch(url)
 
 
 //랜덤명언API
+
 function renderQuote() {
     let url = `https://api.quotable.io/random`;
     fetch(url)
