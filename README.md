@@ -1,5 +1,5 @@
 # momentum
-![image](https://user-images.githubusercontent.com/100067849/215093295-237d9fc0-e868-4954-92af-857e4a15acc0.png)
+![image](https://user-images.githubusercontent.com/100067849/215093651-4a0d84e1-ea52-4921-8455-f082c0c3b40d.png)
 
 //한국시간
 
