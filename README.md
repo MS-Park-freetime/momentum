@@ -1,5 +1,8 @@
 # momentum
 
+MIRICANVAS_ITEM_COPY_KEY
+MIRICANVAS_ITEM_COPY_KEY
+
 //한국시간
 
 function renderCurrentTime() {
