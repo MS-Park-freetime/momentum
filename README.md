@@ -1,6 +1,5 @@
 # momentum
-
-
+![image](https://user-images.githubusercontent.com/100067849/215093295-237d9fc0-e868-4954-92af-857e4a15acc0.png)
 
 //한국시간
 
@@ -26,4 +25,3 @@ function renderQuote() {
             $('#author').text(author);
         });
 }
-![image](https://user-images.githubusercontent.com/100067849/215092374-abcbe26c-69de-48fd-a2c4-7c5bfb9660d3.png)
